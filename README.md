@@ -24,7 +24,7 @@ Aplicativo para gerenciamento de dependência digital, focado em estudantes univ
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/conexao-saudavel.git
+git clone https://github.com/diego-humberto/conexao-saudavel.git
 ```
 
 2. Instale as dependências:
